@@ -1,7 +1,7 @@
 {
   "name": "WReport",
   "version": "0.0.1",
-  "description": "Weather Report",
+  "description": "Demo #1",
   "private": true,
   "dependencies": {
     "body-parser": "*",
